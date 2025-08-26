@@ -19,11 +19,11 @@
 
 ---
 
-## 📸 Preview
+<!-- ## 📸 Preview
 
 <p align="center">
   <img src="pop_design/pop_design/pop_design/img/welcome-1.jpg" alt="Pop Design Preview" width="400">
-</p>
+</p> --.
 
 ---
 
