@@ -17,7 +17,10 @@
 - 🔠 FontAwesome icons integrated  
 - ⚡ Fast & lightweight (vanilla HTML, CSS, JS)  
 
----
+## 🚀 Live Demo
+
+https://starlit-treacle-826e93.netlify.app/
+
 
 <!-- ## 📸 Preview
 
@@ -25,8 +28,6 @@
   <img src="pop_design/pop_design/pop_design/img/welcome-1.jpg" alt="Pop Design Preview" width="400">
 </p> --.
 
----
 
-## 🚀 Live Demo
 
-https://starlit-treacle-826e93.netlify.app/
+
